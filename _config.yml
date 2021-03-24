@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "고나영"
 description              : "학습을 위한 블로그"
-url                      : # the base hostname & protocol for your site e.g. "https://konayoung04.github.io"
+url                      : "https://konayoung04.github.io" # the base hostname & protocol for your site e.g. "https://konayoung04.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "konayoung04/konayoung.github.io"
+repository               : "konayoung04/konayoung.github.io" # GitHub username/repo-name e.g. "konayoung04/konayoung.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
