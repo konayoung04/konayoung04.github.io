@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "고나영"
-  avatar           :  "/assets/images/제목없음.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/images/제목 없음.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "학생"
   location         : "대한민국, 수원"
   email            : "kony0309@gmail.com"
