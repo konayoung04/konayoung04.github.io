@@ -22,7 +22,6 @@ printf("당신의 사주는 대박입니다.\n");
  printf("당신의 사주는 그럭저럭입니다.\n"); 
  return 0; 
 }~~~ 
----
 
 ### 02. 3개의 터널 통과
 ![tunnul](/assets/images/3.jpg) 
@@ -33,13 +32,13 @@ int main(void)
  printf("세 터널의 높이를 차례대로 입력하세요 : "); 
  scanf("%d,%d,%d",&tunnul_1,&tunnul_2,&tunnul_3); 
  if(tunnul_1<=170) 
- printf("충돌 %d", tunnul_1); 
+   printf("충돌 %d", tunnul_1); 
  else if(tunnul_2<=170) 
- printf("충돌 %d", tunnul_2); 
+   printf("충돌 %d", tunnul_2); 
  else if(tunnul_3<=170) 
- printf("충돌 %d", tunnul_3); 
+   printf("충돌 %d", tunnul_3); 
  else 
- printf("무사 통과"); 
+   printf("무사 통과"); 
  return 0; 
 }
 ~~~ 
