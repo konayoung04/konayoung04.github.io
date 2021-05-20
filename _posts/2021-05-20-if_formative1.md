@@ -22,9 +22,9 @@ printf("당신의 사주는 대박입니다.\n");
  printf("당신의 사주는 그럭저럭입니다.\n"); 
  return 0; 
 }~~~ 
+---
 
-
-### 02. 3개의 터널 통과 
+### 02. 3개의 터널 통과
 ![tunnul](/assets/images/3.jpg) 
 ~~~c 
 #include <stdio.h> 
