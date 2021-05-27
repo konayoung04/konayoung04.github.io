@@ -1,5 +1,5 @@
 ---
 layout: single
-title: "유튜브 동영상 삽입하기" 
+title: "[06 조건문 #실습] if문, if-else문" 
 ---
 {% include video id="1wtAS3FPzZU" provider="youtube" %}
